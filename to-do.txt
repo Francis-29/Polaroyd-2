@@ -1,0 +1,9 @@
+Now:
+- Profile Page
+- Like function
+- Learn Django Testing
+
+Future:
+- profile page
+- authentication
+- responsive website
